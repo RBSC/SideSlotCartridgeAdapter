@@ -1,0 +1,20 @@
+--------------------------------------------
+Side Slot Cartridge Adapter Module v1.1
+Copyright (c) 2019 RBSC
+--------------------------------------------
+
+Partslist
+---------
+
+1. One 50 pin cartridge slot, straight pins
+	https://www.ebay.de/itm/5pc-Industrial-Card-Edge-Slot-Socket-Connector-25x2P-50P-2-54mm-0-1-3A-240-50/140888533934
+
+2. One 60 pin cartridge slot, angled pins
+	https://www.ebay.de/itm/10x-Industrial-Card-Edge-Slot-Socket-Connector-30x2P-60P-2-54mm-0-1-Right-Angle/141040527896
+
+3. Two flat ribbon straight pin solderable FD connectors, 50 pins
+	https://www.aliexpress.com/item/50-pcs-DIP-Plug-FD-Connector-0-10-2-54mm-Pitch-6-8-10-12-14/32910219367.html
+
+4. Around 12cm of 50-wire flat ribbon cable
+	https://www.aliexpress.com/item/2m-lot-Rainbow-Ribbon-Cable-10P-14P-16P-20P-26P-34P-40P-50P-Flat-Color-Wire/32877970218.html
+
